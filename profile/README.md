@@ -60,9 +60,9 @@
 | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 |                                                             HTML5                                                              |                                                             CSS3                                                             |                                                           JavaScript                                                            |
 
-| <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="100px" height="100px" /> | <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vuejs" width="100px" height="100px" /> |
+| <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo-atom.svg" alt="Vuetify3" width="100px" height="100px" /> | <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vuejs" width="100px" height="100px" /> |
 | :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|                                                             Bootstrap                                                      |                                                             Vuejs                                                              |
+|                                                             Vuetify3                                                       |                                                             Vuejs                                                              |
 
 
 ### **Back-end**
